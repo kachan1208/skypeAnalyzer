@@ -11,7 +11,7 @@ def mergeKeys(keys, row)
   return result
 end
 
-path = '/home/kachan/.Skype/k_a_c_h_a_n/main.db'
+path = 'main.db'
 result = {}
 
 patternRemove = [ /<partlist.*<\/partlist>/m,
